@@ -1,0 +1,21 @@
+.transactionhistory {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+    box-shadow: rgb(173 173 173) 1px -2px 11px 4px;
+}
+
+.transactions__items {
+    background-color: aqua;
+    padding: 10px 0px;
+}
+
+.table_data:nth-child(2n+1){
+    background-color: #fff;
+}
+
+.table_data_item{
+    padding: 10px 0px;
+    text-align: center;
+    border: 1px solid #a48282;
+}
